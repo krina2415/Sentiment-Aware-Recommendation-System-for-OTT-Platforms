@@ -19,21 +19,21 @@ Fast Prediction
 Interactive Streamlit Web Application
 
 ## Technologies Used
-# Programming Language
+#### Programming Language
 Python
-# Machine Learning
+#### Machine Learning
 Scikit-learn
 Pandas
 NumPy
-# Deep Learning
+#### Deep Learning
 PyTorch
 Transformers (Hugging Face)
-# NLP
+#### NLP
 DistilBERT
 Tokenization
 Text Preprocessing
-# Web Framework
+#### Web Framework
 Streamlit
-# Visualization
+#### Visualization
 Matplotlib
 Plotly
